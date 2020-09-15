@@ -1728,6 +1728,6 @@ S :P  :D :D :P  :D :D :(  :D :) =)  :D :D :)  :D :D =/  :S :P  :S :(  \
   :S :P  =/ :D  =/ :D  :S :P  :S ;)  ;) =)  ;) =)  :D :) ;)  ;) :/  :D\
  :) =)  :D :D :)  ;) =)  ;) =)  :S ;)  =) :{  :D :)  :S :P  :S :P  :S \
 :P  :S :P  :D :) ;)  :D :) :D  :D :D :)  :D :D :/  :( :)  :( :D  :D :)"
-.split("  ")])))
+.split(" ")])))
 
 # Encrypted By Tech-Abm (https://github.com/Tech-abm)
