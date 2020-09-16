@@ -1,4 +1,4 @@
-** Number-crack **
+**Number Crack**
 ```
 _ apt update && apt upgrade _
 
