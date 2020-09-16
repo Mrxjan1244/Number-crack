@@ -1,8 +1,8 @@
-**Number Crack**
+# Number Crack
 ```
-_ apt update && apt upgrade _
+**apt update && apt upgrade**
 
-_ apt install git _
+**apt install git**
 
  _apt install python2 _
 
