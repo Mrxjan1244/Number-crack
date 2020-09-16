@@ -1,20 +1,20 @@
 # Number-crack
 ```
-- apt update && apt upgrade 
+_ apt update && apt upgrade _
 
-- apt install git 
+_ apt install git _
 
-- apt install python2 
+ _apt install python2 _
 
-- git clone https://github.com/Tech-abm/Number-crack
+ _git clone https://github.com/Tech-abm/Number-crack_
 
-- cd Number-crack 
+_ cd Number-crack _
 
-- pip2 install mechanize 
+_ pip2 install mechanize _
 
-- pip2 install requests 
+_ pip2 install requests _
 
-- python2 speed.py
+_ python2 speed.py _
 ```
 ![PicsArt_09-15-05.10.41.png](https://user-images.githubusercontent.com/52023076/93209100-75707e00-f712-11ea-9259-4dd1bfaecf56.png)
 <p align="center">
